@@ -1,0 +1,23 @@
+mine_inspection — vendored assets
+==================================
+
+The following 3D models under CustomRobots/mine_inspection/models/ are
+redistributed from Gazebo Fuel and are the work of Open Robotics.
+
+  Source:    https://fuel.gazebosim.org/1.0/OpenRobotics/models/<name>
+  License:   Creative Commons Attribution 4.0 International (CC BY 4.0)
+             https://creativecommons.org/licenses/by/4.0/
+  Author:    Open Robotics
+
+Vendored models:
+  Cave Straight 02 Type B
+  Cave Corner 01 Type B
+  Cave Corner 02 Type A
+  Cave Cap Type A
+  Cave 3 Way 01 Lights Type B
+  Cave Vertical Shaft Lights Type B
+  Mine Cart
+  Mine Cart Engine
+
+No modifications have been made to the vendored assets. See
+MANIFEST.sha256 for byte-exact verification.

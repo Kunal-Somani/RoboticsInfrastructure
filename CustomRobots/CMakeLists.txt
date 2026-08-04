@@ -125,6 +125,9 @@ install(
     
     pick_place/models
 
+    mine_rover/models
+    mine_inspection/models
+
   DESTINATION share/${PROJECT_NAME})
 
 # install(
